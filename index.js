@@ -22,8 +22,7 @@ function divide(a, b) {
   returns('600 / 30 = 20')
 }
 
-var number = 10
 function add5(number) {
   number += 5
-  returns(10 + 5 = 15)
+  expect(increment(number))toEqual(number + 5)
 }
