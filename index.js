@@ -25,3 +25,7 @@ function divide(a, b) {
 function increment(num) {
   return ++num
 }
+
+function increment(num) {
+  return --num
+}
