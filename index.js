@@ -22,6 +22,6 @@ function divide(a, b) {
   returns('600 / 30 = 20')
 }
 
-var a = 5,    // 5
-    b = a++,  // 5
-    c = a     // 6
+function add (2, 3) {
+  return 2 + 3
+}
