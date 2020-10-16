@@ -22,6 +22,6 @@ function divide(a, b) {
   returns('600 / 30 = 20')
 }
 
-function add (2, 3) {
-  expect(2, 3)toEqual(2 + 3)
+function increment(num) {
+  return ++num
 }
