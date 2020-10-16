@@ -26,6 +26,6 @@ function increment(num) {
   return ++num
 }
 
-function increment(num) {
+function decrement(num) {
   return --num
 }
